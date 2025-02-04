@@ -1,0 +1,4 @@
+<script>start("/Users/qianruzhang/Documents/GitHub/Crypto-Price-and-Twitter-Sentimental-Analysis/data/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("crytpo_data.csv","crytpo_data.csv",0,328992,"321 kB",1738609285,"2025/2/3 14:01:25");</script>
+<script>addRow("twitter_data.csv","twitter_data.csv",0,10697106,"10.2 MB",1738609285,"2025/2/3 14:01:25");</script>

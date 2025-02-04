@@ -1,0 +1,5 @@
+flair
+numpy
+pandas
+mplfinance
+matplotlib

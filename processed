@@ -1,0 +1,6 @@
+<script>start("/Users/qianruzhang/Documents/GitHub/Crypto-Price-and-Twitter-Sentimental-Analysis/processed/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("day_btc_data.csv","day_btc_data.csv",0,18833,"18.4 kB",1738696051,"2025/2/4 14:07:31");</script>
+<script>addRow("day_btc_tw.csv","day_btc_tw.csv",0,28475,"27.8 kB",1738696051,"2025/2/4 14:07:31");</script>
+<script>addRow("hourly_btc_tw_data.csv","hourly_btc_tw_data.csv",0,697650,"681 kB",1738696047,"2025/2/4 14:07:27");</script>
+<script>addRow("processed_twitter_data.csv","processed_twitter_data.csv",0,5557870,"5.3 MB",1738696051,"2025/2/4 14:07:31");</script>
